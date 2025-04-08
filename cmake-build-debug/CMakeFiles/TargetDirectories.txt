@@ -1,0 +1,3 @@
+/home/kira/Project/Xredirect/cmake-build-debug/CMakeFiles/Xredirect.dir
+/home/kira/Project/Xredirect/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kira/Project/Xredirect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
